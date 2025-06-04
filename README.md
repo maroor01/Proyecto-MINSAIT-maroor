@@ -113,3 +113,29 @@ Mi resultado, como lo pedido, es un codigo SQL el cual crea una base de datos y 
 Dentro de la carpeta tambien se encuenta el archivo de la aplicacion usada para hacer el diagrama E-R, el cual yo realice con la aplicacion DIA, una foto de el diagrama y el pdf con las tablas rellenadas de todas las tablas.
 
 # Parte de Sistemas Informaticos
+
+El apartado de sistemas informaticos pedia lo siguiente:
+
+Realizar una instalación de Windows 10 en una máquina virtual.
+Crear un servidor web a nivel local en el sistema operativo Windows 10.
+Para ello, utilizaremos la herramienta que hemos visto en nuestro instituto (indicar cual es la herramienta utilizada). Deben realizarse una serie de capturas para realizar unas evidencias del proceso tanto de instalación como del resultado de la parte desplegada con la herramienta.
+
+Propuesta de evidencias sugeridas:
+
+    -Captura de la configuración de la máquina virtual.
+    -Captura de las pantallas de instalación de Windows 10 (selección de idioma, particiones y configuración inicial).
+
+Mi resultado a este apartado fueron dos pdf, uno sobre la creacion de la maquina virtual y otro sobre la instalacion de ubuntu en la maquina
+
+# Parte de Entornos de Desarrollo
+
+Conforme se ha realizado la implementación del ejercicio, se requiere que todo el código desarrollado, junto con la documentación complementaria, se haya gestionado a través de un repositorio personal en GitHub. Este paso es fundamental para practicar la gestión de proyectos en un sistema de control de versiones y para consolidar las habilidades relacionadas con el uso de Git.
+
+    -Creación del repositorio en GitHub
+    -Uso de Ramas a lo largo del proyecto. Deberás estructurar el desarrollo del proyecto utilizando ramas en Git
+    para reflejar las diferentes etapas del trabajo
+    -Subir el grafo de ramas
+
+Mi respuesta a este apartado fue la creacion de este directorio de GitHub y el grafo de ramas que muestro a contnuacion.
+
+![Imagen-grafo-ramas](EXTRAS-RM/4.png)
