@@ -1,0 +1,7 @@
+C:\Users\Manuel\Desktop\Informatica y etc\Material general de practicas\SRC\MAIN\Proyecto Indra\bin\Debug\Proyecto Indra.exe.config
+C:\Users\Manuel\Desktop\Informatica y etc\Material general de practicas\SRC\MAIN\Proyecto Indra\bin\Debug\Proyecto Indra.exe
+C:\Users\Manuel\Desktop\Informatica y etc\Material general de practicas\SRC\MAIN\Proyecto Indra\bin\Debug\Proyecto Indra.pdb
+C:\Users\Manuel\Desktop\Informatica y etc\Material general de practicas\SRC\MAIN\Proyecto Indra\obj\Debug\Proyecto Indra.csproj.AssemblyReference.cache
+C:\Users\Manuel\Desktop\Informatica y etc\Material general de practicas\SRC\MAIN\Proyecto Indra\obj\Debug\Proyecto Indra.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\Informatica y etc\Material general de practicas\SRC\MAIN\Proyecto Indra\obj\Debug\Proyecto Indra.exe
+C:\Users\Manuel\Desktop\Informatica y etc\Material general de practicas\SRC\MAIN\Proyecto Indra\obj\Debug\Proyecto Indra.pdb
