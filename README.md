@@ -73,11 +73,11 @@ Yo lo que hize fue una pagina de index, la cual contiene un carrusel con 3 image
 
 Seguido de esto hay una pagina con una tabla listando todos los eventos incluidos y una pagina por evento, con informacion detallada sobre que va ese evento, aqui a continuacion dejo las imagenes de como queda la pagina en el servidor local de la maquina virtual, con una imagen de el index, de la tabla y una de un evento.
 
-![Imagen-index-web](EXTRAS-RM/1.png)
+![Imagen-index-web](EXTRAS-RM/1.jpg)
 
-![Imagen-eventos-web](EXTRAS-RM/2.png)
+![Imagen-eventos-web](EXTRAS-RM/2.jpg)
 
-![Imagen-evento1-web](EXTRAS-RM/3.png)
+![Imagen-evento1-web](EXTRAS-RM/3.jpg)
 
 # Parte de C#
 
@@ -138,4 +138,4 @@ Conforme se ha realizado la implementación del ejercicio, se requiere que todo 
 
 Mi respuesta a este apartado fue la creacion de este directorio de GitHub y el grafo de ramas que muestro a contnuacion.
 
-![Imagen-grafo-ramas](EXTRAS-RM/4.png)
+![Imagen-grafo-ramas](EXTRAS-RM/4.jpg)
